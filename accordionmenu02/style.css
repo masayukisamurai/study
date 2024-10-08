@@ -20,7 +20,3 @@
   padding: 10px;
   background-color: #fff;
 }
-/* .accordion クラスでアコーディオン全体の幅を設定します。
-.accordion-item クラスで各メニュー項目の境界線とマージンを設定します。
-.accordion-header クラスでヘッダーの背景色、パディング、カーソルスタイルを設定します。
-.accordion-content クラスで初期状態で非表示にするために display: none; を設定します。 */
